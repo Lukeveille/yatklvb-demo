@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.814fba9f.chunk.css",
+    "main.js": "./static/js/main.db008b67.chunk.js",
+    "main.js.map": "./static/js/main.db008b67.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.849705b4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.849705b4.js.map",
+    "static/js/2.a470339b.chunk.js": "./static/js/2.a470339b.chunk.js",
+    "static/js/2.a470339b.chunk.js.map": "./static/js/2.a470339b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.01d567271539dee8eb828a93eeefb7a6.js": "./precache-manifest.01d567271539dee8eb828a93eeefb7a6.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.814fba9f.chunk.css.map": "./static/css/main.814fba9f.chunk.css.map",
+    "static/media/7F23768D-4D91-4287-A78A-C6DA6F9D01A9.JPG": "./static/media/7F23768D-4D91-4287-A78A-C6DA6F9D01A9.885c6563.JPG",
+    "static/media/BoatYK.jpg": "./static/media/BoatYK.fb0d93a6.jpg",
+    "static/media/YK-in-Cali.png": "./static/media/YK-in-Cali.9219ea52.png",
+    "static/media/bootstrap.min.css": "./static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/unnamed.jpg": "./static/media/unnamed.e2b59cc0.jpg",
+    "static/media/yatklvb-promo.mp4": "./static/media/yatklvb-promo.771e4e6a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.849705b4.js",
+    "static/js/2.a470339b.chunk.js",
+    "static/css/main.814fba9f.chunk.css",
+    "static/js/main.db008b67.chunk.js"
+  ]
+}
