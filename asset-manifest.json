@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.77a951bc.chunk.css",
-    "main.js": "./static/js/main.e077606f.chunk.js",
-    "main.js.map": "./static/js/main.e077606f.chunk.js.map",
+    "main.js": "./static/js/main.4c73c018.chunk.js",
+    "main.js.map": "./static/js/main.4c73c018.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.849705b4.js",
     "runtime-main.js.map": "./static/js/runtime-main.849705b4.js.map",
     "static/js/2.fd594e39.chunk.js": "./static/js/2.fd594e39.chunk.js",
     "static/js/2.fd594e39.chunk.js.map": "./static/js/2.fd594e39.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.2d0e5de09bdd688a4fe526707177c4fd.js": "./precache-manifest.2d0e5de09bdd688a4fe526707177c4fd.js",
+    "precache-manifest.9631b8ef9319d06f23183c1d6f4534d3.js": "./precache-manifest.9631b8ef9319d06f23183c1d6f4534d3.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.77a951bc.chunk.css.map": "./static/css/main.77a951bc.chunk.css.map",
     "static/media/7F23768D-4D91-4287-A78A-C6DA6F9D01A9.JPG": "./static/media/7F23768D-4D91-4287-A78A-C6DA6F9D01A9.885c6563.JPG",
@@ -21,13 +21,13 @@
     "static/media/bootstrap.min.css": "./static/media/glyphicons-halflings-regular.fa277232.woff",
     "static/media/jimmi.jpg": "./static/media/jimmi.e7d8a2cf.jpg",
     "static/media/unnamed.jpg": "./static/media/unnamed.e2b59cc0.jpg",
-    "static/media/yatklvb-promo.mp4": "./static/media/yatklvb-promo.771e4e6a.mp4",
+    "static/media/yatklvb-promo-new-logo.mp4": "./static/media/yatklvb-promo-new-logo.96ff4e09.mp4",
     "static/media/yatklvb_killa.jpg": "./static/media/yatklvb_killa.6dba03f4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.849705b4.js",
     "static/js/2.fd594e39.chunk.js",
     "static/css/main.77a951bc.chunk.css",
-    "static/js/main.e077606f.chunk.js"
+    "static/js/main.4c73c018.chunk.js"
   ]
 }
