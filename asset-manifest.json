@@ -1,30 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.79d69349.chunk.css",
-    "main.js": "./static/js/main.39e05979.chunk.js",
-    "main.js.map": "./static/js/main.39e05979.chunk.js.map",
+    "main.css": "./static/css/main.77a951bc.chunk.css",
+    "main.js": "./static/js/main.49a77f70.chunk.js",
+    "main.js.map": "./static/js/main.49a77f70.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.849705b4.js",
     "runtime-main.js.map": "./static/js/runtime-main.849705b4.js.map",
-    "static/js/2.a7d0c42f.chunk.js": "./static/js/2.a7d0c42f.chunk.js",
-    "static/js/2.a7d0c42f.chunk.js.map": "./static/js/2.a7d0c42f.chunk.js.map",
+    "static/js/2.fd594e39.chunk.js": "./static/js/2.fd594e39.chunk.js",
+    "static/js/2.fd594e39.chunk.js.map": "./static/js/2.fd594e39.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.447ba3dcff010f0f420ef075819f4c7f.js": "./precache-manifest.447ba3dcff010f0f420ef075819f4c7f.js",
+    "precache-manifest.b4c6e0ab52a363bac304a1ad6d039a65.js": "./precache-manifest.b4c6e0ab52a363bac304a1ad6d039a65.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.79d69349.chunk.css.map": "./static/css/main.79d69349.chunk.css.map",
+    "static/css/main.77a951bc.chunk.css.map": "./static/css/main.77a951bc.chunk.css.map",
     "static/media/7F23768D-4D91-4287-A78A-C6DA6F9D01A9.JPG": "./static/media/7F23768D-4D91-4287-A78A-C6DA6F9D01A9.885c6563.JPG",
+    "static/media/App.css": "./static/media/BeauRegular-0nLo.689122fc.ttf",
     "static/media/BoatYK.jpg": "./static/media/BoatYK.fb0d93a6.jpg",
+    "static/media/YATKLVB_fulllogo.png": "./static/media/YATKLVB_fulllogo.a7a230fe.png",
     "static/media/YK-in-Cali.png": "./static/media/YK-in-Cali.9219ea52.png",
     "static/media/armando.jpg": "./static/media/armando.a7c133c9.jpg",
     "static/media/fito.jpg": "./static/media/fito.f53a4896.jpg",
     "static/media/bootstrap.min.css": "./static/media/glyphicons-halflings-regular.fa277232.woff",
     "static/media/jimmi.jpg": "./static/media/jimmi.e7d8a2cf.jpg",
     "static/media/unnamed.jpg": "./static/media/unnamed.e2b59cc0.jpg",
-    "static/media/yatklvb-promo.mp4": "./static/media/yatklvb-promo.771e4e6a.mp4"
+    "static/media/yatklvb-promo.mp4": "./static/media/yatklvb-promo.771e4e6a.mp4",
+    "static/media/yatklvb_killa.jpg": "./static/media/yatklvb_killa.6dba03f4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.849705b4.js",
-    "static/js/2.a7d0c42f.chunk.js",
-    "static/css/main.79d69349.chunk.css",
-    "static/js/main.39e05979.chunk.js"
+    "static/js/2.fd594e39.chunk.js",
+    "static/css/main.77a951bc.chunk.css",
+    "static/js/main.49a77f70.chunk.js"
   ]
 }
